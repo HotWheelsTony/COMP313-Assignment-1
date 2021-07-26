@@ -2,7 +2,7 @@
 
 ## Project Name: 'JUMPGUY'
 
-### Link to video of project can be found [here](https://youtu.be/--nYKzkhSZk)
+### Link to video of project can be found [here](https://youtu.be/CmY0t7L7wsg)
 
 ## Game Description:
 
